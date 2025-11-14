@@ -1,4 +1,4 @@
-# TerraLink – Climate-Smart Farming Dashboard (TSYP Challenge)
+# TerraLink – Climate-Smart Farming Dashboard (Challenge)
 
 TerraLink helps small farmers in Tunisia face **drought** and **irregular rainfall**
 by combining:
