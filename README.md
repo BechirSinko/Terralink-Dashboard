@@ -8,7 +8,7 @@ by combining:
 - Automatic **microinsurance triggers**
 - A web dashboard for NGOs, insurers and youth technicians
 
-This dashboard is a prototype built for the **TSYP Sight Group challenge**.
+This dashboard is a prototype built for the **Sight Group challenge**.
 
 ---
 
