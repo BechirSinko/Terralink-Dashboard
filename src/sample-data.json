@@ -1,0 +1,52 @@
+[
+  {
+    "id": "s-001",
+    "farmId": "f-tn-01",
+    "timestamp": "2025-11-05T06:00:00Z",
+    "temperature": 27.5,
+    "soilMoisture": 14.2,
+    "rainfall": 0,
+    "region": "Center",
+    "crop": "Olives"
+  },
+  {
+    "id": "s-002",
+    "farmId": "f-tn-01",
+    "timestamp": "2025-11-06T06:00:00Z",
+    "temperature": 30.1,
+    "soilMoisture": 12.8,
+    "rainfall": 0,
+    "region": "Center",
+    "crop": "Olives"
+  },
+  {
+    "id": "s-003",
+    "farmId": "f-tn-02",
+    "timestamp": "2025-11-06T06:00:00Z",
+    "temperature": 33.0,
+    "soilMoisture": 10.3,
+    "rainfall": 0,
+    "region": "South",
+    "crop": "Dates"
+  },
+  {
+    "id": "s-004",
+    "farmId": "f-tn-02",
+    "timestamp": "2025-11-07T06:00:00Z",
+    "temperature": 34.2,
+    "soilMoisture": 9.4,
+    "rainfall": 0,
+    "region": "South",
+    "crop": "Dates"
+  },
+  {
+    "id": "s-005",
+    "farmId": "f-tn-03",
+    "timestamp": "2025-11-07T06:00:00Z",
+    "temperature": 22.0,
+    "soilMoisture": 32.0,
+    "rainfall": 12.4,
+    "region": "North",
+    "crop": "Cereals"
+  }
+]
